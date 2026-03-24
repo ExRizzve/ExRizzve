@@ -1,1 +1,1 @@
-![snake](snake.svg)
+![snakedark](snakedark.svg)
