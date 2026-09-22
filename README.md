@@ -1,3 +1,3 @@
 Russian creator of all kinds of projects in Java, Lua, Luau
 
-![snakedark](snakedark.svg)
+![github-user-contribution](github-user-contribution.svg)
